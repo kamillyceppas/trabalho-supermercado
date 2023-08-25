@@ -19,14 +19,11 @@ Este projeto foi desenvolvido ao final do meu primeiro período de Sistemas de I
 
 ## Desafios e Conquistas
 
-Este projeto foi um desafio significativo, pois foi desenvolvido após apenas dois meses de estudos em C, representando meu primeiro contato com a programação. Apesar disso, foi uma experiência gratificante. 
+Este projeto foi um desafio significativo, pois foi desenvolvido após apenas dois meses de estudos em C, representando meu primeiro contato com a programação. Apesar disso, foi uma experiência gratificante! Obti nota máxima :) 
 
-- Concluído no final do primeiro período de Sistemas de Informação.
-- Pontuação máxima obtida.
-- Resultado alcançado após apenas dois meses de estudos em C.
-- Orgulho pessoal pelo desenvolvimento e conclusão bem-sucedida.
 
-Esse projeto é parte do meu portfólio e representa minha dedicação e evolução no aprendizado de programação.
+
+Representa minha dedicação e evolução no aprendizado de programação.
 
 ![Exemplo de Funcionamento](imagem.png)
 

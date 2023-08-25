@@ -1,70 +1,32 @@
-<!DOCTYPE html>
-<html>
-<body>
+# Gerenciamento de Clientes e Análise de Compras
 
-<h2>Resumo do Código</h2>
+Este projeto foi desenvolvido ao final do meu primeiro período de Sistemas de Informação. É um programa de gerenciamento de informações de clientes de um supermercado e análise de compras. O programa permite cadastrar até três clientes com seus nomes, gêneros e valores de compras. Ele garante nomes únicos, valida entradas de sexo e valores, e calcula estatísticas como gênero dos clientes, total gasto por homens e a compra mais barata.
 
-<ul>
-  <li><strong>Declaração de Variáveis:</strong>
-    <ul>
-      <li>Declaração das variáveis para controlar o menu, armazenar informações dos clientes e calcular estatísticas de compras.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Cadastro de Clientes:</strong>
-    <ul>
-      <li>Loop que permite o cadastro de até três clientes.</li>
-      <li>Solicita o nome do cliente, verifica se já existe e garante um nome único.</li>
-      <li>Pede e valida o sexo do cliente (masculino ou feminino).</li>
-      <li>Solicita e valida o valor da compra, calculando totais e estatísticas.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Menu Principal:</strong>
-    <ul>
-      <li>Exibe um menu interativo com três opções.</li>
-      <li>Opção 1: Permite pesquisar informações de um cliente específico.</li>
-      <li>Opção 2: Analisa compras baseadas em um valor limite e exibe estatísticas.</li>
-      <li>Opção 3: Encerra o programa.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Opção 1 - Ver Informações do Cliente:</strong>
-    <ul>
-      <li>Solicita o nome de um cliente para consulta.</li>
-      <li>Procura o cliente na base de dados e exibe suas informações se encontrado.</li>
-      <li>Lida com casos em que o cliente não é encontrado.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Opção 2 - Ver Informações de Produtos Cadastrados:</strong>
-    <ul>
-      <li>Solicita um valor limite para análise.</li>
-      <li>Conta e exibe quantidades de compras abaixo e acima do limite.</li>
-      <li>Exibe estatísticas como quantidade de compradoras mulheres, valor total comprado por homens, valor total das compras, média das compras e compra mais barata.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Opção 3 - Encerrar o Programa:</strong>
-    <ul>
-      <li>Exibe mensagem de encerramento.</li>
-      <li>Define a resposta como 'n', encerrando o loop principal.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Loop Principal e Encerramento:</strong>
-    <ul>
-      <li>O loop principal mantém o programa em execução até que o usuário opte por sair.</li>
-      <li>Exibe mensagem de encerramento caso a resposta seja 'n'.</li>
-    </ul>
-  </li>
-  
-  <li><strong>Retorno:</strong>
-    <ul>
-      <li>Retorna 0 para indicar que o programa foi executado com sucesso.</li>
-    </ul>
-  </li>
-</ul>
+## Características do Programa
 
-</body>
-</html>
+- Cadastro de até três clientes, garantindo nomes únicos.
+- Validação de entradas de sexo (masculino ou feminino) e valores de compras.
+- Cálculo automático de estatísticas durante o cadastro.
+- Apresentação de um menu interativo onde o usuário decide continuar ou não.
+- Pesquisa com resultados detalhados, incluindo:
+  - Compras abaixo de um valor estipulado.
+  - Compras acima de um valor estipulado.
+  - Quantidade de clientes mulheres.
+  - Total gasto por clientes homens.
+  - Valor total de compras.
+  - Valor médio de compras.
+  - Compra mais barata.
+
+## Desafios e Conquistas
+
+Este projeto foi um desafio significativo, pois foi desenvolvido após apenas dois meses de estudos em C, representando meu primeiro contato com a programação. Apesar disso, foi uma experiência gratificante. 
+
+- Concluído no final do primeiro período de Sistemas de Informação.
+- Pontuação máxima obtida.
+- Resultado alcançado após apenas dois meses de estudos em C.
+- Orgulho pessoal pelo desenvolvimento e conclusão bem-sucedida.
+
+Esse projeto é parte do meu portfólio e representa minha dedicação e evolução no aprendizado de programação.
+
+![Exemplo de Funcionamento](imagem.png)
+

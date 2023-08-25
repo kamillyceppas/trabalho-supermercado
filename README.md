@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Trabalho - Supermercado</title>
-</head>
 <body>
 
 <h2>Resumo do Código</h2>

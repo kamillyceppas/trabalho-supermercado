@@ -26,8 +26,10 @@ Este projeto foi um desafio significativo, pois foi desenvolvido após apenas do
 Representa minha dedicação e evolução no aprendizado de programação.
 
 
-<img src="fotos/foto (1).png" width=40%/><img src="fotos/foto (2).png" width=40%/>
-<img src="fotos/foto (3).png" width=40%/><img src="fotos/foto (4).png" width=40%/>
+<img src="fotos/foto (1).png" width=40%/>
+<img src="fotos/foto (2).png" width=40%/>
+<img src="fotos/foto (3).png" width=40%/>
+<img src="fotos/foto (4).png" width=40%/>
 <img src="fotos/foto (5).png" width=40%/>
 
 
